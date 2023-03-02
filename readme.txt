@@ -1,2 +1,2 @@
 Git is a distributed version control system.
-Git is easy to learn!
+Git is free software distibuted under the GPL.
